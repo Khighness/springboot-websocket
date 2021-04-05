@@ -29,7 +29,7 @@ src
 
 ## 运行结果
 
-运行项目，打开 http://192.168.117.133:3333/websocket/login/<username>
+运行项目，打开 http://192.168.117.133:3333/websocket/login/username
 
 私聊：
 
